@@ -1,0 +1,12 @@
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\Fortify.RulePack.Test.dll
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\Fortify.RulePack.Test.pdb
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\FortifyPackageGenerator.exe
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\WebDriver.dll
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\WebDriver.Support.dll
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\FluentSharp.CoreLib.dll
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\FortifyPackageGenerator.pdb
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\WebDriver.xml
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\bin\Debug\WebDriver.Support.xml
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\obj\Debug\Fortify.RulePack.Test.csprojResolveAssemblyReference.cache
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\obj\Debug\Fortify.RulePack.Test.dll
+C:\TeamMentor\HPFortifyRule\RulePack_Generator_Code\Fortify.RulePack.Test\obj\Debug\Fortify.RulePack.Test.pdb
