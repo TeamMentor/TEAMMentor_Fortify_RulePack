@@ -20,6 +20,7 @@ namespace FortifyPackageGenerator
             RulePack teamMentorRulePack = rules.CreateRulePack();
             //Saving it to XML
             teamMentorRulePack.ToXml().saveAs(@"C:\Temp\TeamMentorRulePack.xml");
+            System.Console.ReadKey();
         }
 
         private static void GenerateMappingXml()

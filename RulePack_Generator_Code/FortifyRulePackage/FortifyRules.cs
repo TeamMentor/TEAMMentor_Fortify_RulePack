@@ -346,7 +346,8 @@ namespace FortifyPackageGenerator
 
         private static void UpdateRelativeLinks(IEnumerable<IWebElement> links)
         {
-            foreach (IWebElement link in links.Where(x => x.Text.Length > 0))
+            var linkList = links.Where(x => (x.Text.Length > 0));
+            foreach (IWebElement link in linkList)
             {
                 string href = link.GetAttribute("href");
 
@@ -356,10 +357,17 @@ namespace FortifyPackageGenerator
                 int endIndex = outerHtml.IndexOf(">");
 
                 string newText = newUrl + outerHtml.Substring(endIndex);
-
-                var xJavaScriptExecutor = driver as IJavaScriptExecutor;
-                xJavaScriptExecutor.ExecuteScript(String.Format("$('a:contains(\"{0}\")').outerHTML='{1}'", link.Text,
-                                                                newText));
+                if (!link.Text.contains("("))
+                {
+                    var xJavaScriptExecutor = driver as IJavaScriptExecutor;
+                    xJavaScriptExecutor.ExecuteScript(String.Format("$('a:contains(\"{0}\")')[0].outerHTML='{1}'",
+                                                                    link.Text,
+                                                                    newText));
+                }
+                else
+                {
+                    Console.WriteLine(href);
+                }
             }
         }
     }
