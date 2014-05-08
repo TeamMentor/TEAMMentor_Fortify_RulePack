@@ -2,9 +2,9 @@
 <RulePack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="xmlns://www.fortifysoftware.com/schema/rules">
   <RulePackID>0c189268-a60d-446d-be32-179f2ce00760</RulePackID>
   <SKU>067b0374-df08-46af-8d9a-c9edd4d85803</SKU>
-  <Name>TeamMentor Secure Coding Rules version 1.0</Name>
-  <Version>1.0</Version>
-  <Description>TeamMentor Secure Coding Rules version 1.0</Description>
+  <Name>TeamMentor Secure Coding Rules version 2.0</Name>
+  <Version>2.0</Version>
+  <Description>TeamMentor Secure Coding Rules version 2.0</Description>
   <Rules version="3.11">
     <RuleDefinitions>
       <CustomDescriptionRule formatVersion="3.2">

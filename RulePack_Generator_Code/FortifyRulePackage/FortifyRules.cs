@@ -54,10 +54,10 @@ namespace FortifyPackageGenerator
             var rulePack = new RulePack
                                {
                                    RulePackID = Guid.NewGuid().ToString(),
-                                   Description = "TeamMentor Secure Coding Rules version 1.0",
-                                   Name = "TeamMentor Secure Coding Rules version 1.0",
+                                   Description = "TeamMentor Secure Coding Rules version 2.0",
+                                   Name = "TeamMentor Secure Coding Rules version 2.0",
                                    SKU = Guid.NewGuid().ToString(),
-                                   Version = "1.0",
+                                   Version = "2.0",
                                    Rules = new RulePackRules[1]
                                };
             //Creating rules
