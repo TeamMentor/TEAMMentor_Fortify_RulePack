@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDataMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataMapping FortifyCategoryDescription="SQL Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0">
+    <Lists>
+      <List SubCategoryDescription="Castle ActiveRecord" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="Hibernate" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="iBatis Data Map" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="JDO" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="LINQ" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="NHibernate" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="Persistence" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+      <List SubCategoryDescription="SubSonic" ArticleUrl="https://vulnerabilities.teammentor.net/article/c4914e51-2609-4edc-8133-31491f1b03c0" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Cross-Site Scripting" ArticleUrl="https://vulnerabilities.teammentor.net/article/683d33a8-7979-4307-8cf0-3a82457f9f47">
+    <Lists>
+      <List SubCategoryDescription="DOM" ArticleUrl="https://vulnerabilities.teammentor.net/article/683d33a8-7979-4307-8cf0-3a82457f9f47" />
+      <List SubCategoryDescription="External Links" ArticleUrl="https://vulnerabilities.teammentor.net/article/683d33a8-7979-4307-8cf0-3a82457f9f47" />
+      <List SubCategoryDescription="Persistent" ArticleUrl="https://vulnerabilities.teammentor.net/article/683d33a8-7979-4307-8cf0-3a82457f9f47" />
+      <List SubCategoryDescription="Poor Validation" ArticleUrl="https://vulnerabilities.teammentor.net/article/683d33a8-7979-4307-8cf0-3a82457f9f47" />
+      <List SubCategoryDescription="Reflected" ArticleUrl="https://vulnerabilities.teammentor.net/article/683d33a8-7979-4307-8cf0-3a82457f9f47" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Command Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/94e52aca-06b6-4747-9bc9-f0149208f18c" />
+  <DataMapping FortifyCategoryDescription="Code Correctness" ArticleUrl="https://vulnerabilities.teammentor.net/article/132eb2b6-2d46-4fda-8d18-773ba1a1a919">
+    <Lists>
+      <List SubCategoryDescription="Regular Expressions Denial of Service" ArticleUrl="https://vulnerabilities.teammentor.net/article/132eb2b6-2d46-4fda-8d18-773ba1a1a919" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Out-of-Bounds Read" ArticleUrl="https://vulnerabilities.teammentor.net/article/857f6392-0870-4fec-8d58-1572e3bbb6d7">
+    <Lists>
+      <List SubCategoryDescription="Off-by-One" ArticleUrl="https://vulnerabilities.teammentor.net/article/857f6392-0870-4fec-8d58-1572e3bbb6d7" />
+      <List SubCategoryDescription="Signed Comparison" ArticleUrl="https://vulnerabilities.teammentor.net/article/857f6392-0870-4fec-8d58-1572e3bbb6d7" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Cross-Site Request Forgery" ArticleUrl="https://vulnerabilities.teammentor.net/article/62f78eb2-9eba-484c-ade3-7b54c2df9e5a" />
+  <DataMapping FortifyCategoryDescription="Dangerous File Inclusion" ArticleUrl="https://vulnerabilities.teammentor.net/article/4a8034cb-e024-4ccb-a5f7-d7397dfc1371" />
+  <DataMapping FortifyCategoryDescription="Dynamic Code Evaluation" ArticleUrl="https://vulnerabilities.teammentor.net/article/5869ac6a-0a19-4541-ac8f-0d74e09f3156">
+    <Lists>
+      <List SubCategoryDescription="Code Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/5869ac6a-0a19-4541-ac8f-0d74e09f3156" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Key Management" ArticleUrl="https://vulnerabilities.teammentor.net/article/275c194d-3f0d-46d8-a874-8584bf0fce30">
+    <Lists>
+      <List SubCategoryDescription="Hardcoded Encryption Key" ArticleUrl="https://vulnerabilities.teammentor.net/article/275c194d-3f0d-46d8-a874-8584bf0fce30" />
+      <List SubCategoryDescription="Empty Encryption Key" ArticleUrl="https://vulnerabilities.teammentor.net/article/161382ce-e097-492d-aae1-90dac335aa66" />
+      <List SubCategoryDescription="Null Encryption Key" ArticleUrl="https://vulnerabilities.teammentor.net/article/161382ce-e097-492d-aae1-90dac335aa66" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="LDAP Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/8eba1b70-1b1a-4810-a819-1c212cf33099" />
+  <DataMapping FortifyCategoryDescription="Log Forging" ArticleUrl="https://vulnerabilities.teammentor.net/article/4f84a5c0-b513-4054-8f1a-1ff1367de03b" />
+  <DataMapping FortifyCategoryDescription="Missing XML Validation" ArticleUrl="https://vulnerabilities.teammentor.net/article/907797a3-3e9c-4cd8-ac5d-261209092414" />
+  <DataMapping FortifyCategoryDescription="Missing XML Validation(validating_reader)" ArticleUrl="https://vulnerabilities.teammentor.net/article/907797a3-3e9c-4cd8-ac5d-261209092414" />
+  <DataMapping FortifyCategoryDescription="XML External Entity Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/6f0d3861-d0b8-4cb1-9fc3-92bb23d738e5" />
+  <DataMapping FortifyCategoryDescription="Session Fixation" ArticleUrl="https://vulnerabilities.teammentor.net/article/fd3db9ad-33b8-41af-aba9-fc5fb12bb562" />
+  <DataMapping FortifyCategoryDescription="Open Redirect" ArticleUrl="https://vulnerabilities.teammentor.net/article/90608236-847e-47ff-bb8f-b551297a25af" />
+  <DataMapping FortifyCategoryDescription="Missing Check against Null" ArticleUrl="https://vulnerabilities.teammentor.net/article/ec38fb55-80b0-45ab-aa08-e0f681744234" />
+  <DataMapping FortifyCategoryDescription="Password Management" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac">
+    <Lists>
+      <List SubCategoryDescription="Empty Password" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Empty Password in Configuration File" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Hardcoded Password" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Null Password" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Password in Comment" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Password in Configuration File" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Password in Redirect" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+      <List SubCategoryDescription="Weak Cryptography" ArticleUrl="https://vulnerabilities.teammentor.net/article/17e3dc04-f31e-4f9b-9ab7-de34ad7088ac" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Path Manipulation" ArticleUrl="https://vulnerabilities.teammentor.net/article/b0a8079f-fda0-46d9-bc3b-20ac08334e75" />
+  <DataMapping FortifyCategoryDescription="XPath Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/5ef5eea8-07c2-41de-80f9-7f62aaf0e3c8" />
+  <DataMapping FortifyCategoryDescription="XQuery Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/33f09ecd-0d56-4609-a49b-5337461a13f9" />
+  <DataMapping FortifyCategoryDescription="XML Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/c54b70d7-11bc-4102-a4e0-f3e468d00cb0" />
+  <DataMapping FortifyCategoryDescription="XSLT Injection" ArticleUrl="https://vulnerabilities.teammentor.net/article/b9e5c990-5b4e-46cd-bb63-72d625fb75db" />
+  <DataMapping FortifyCategoryDescription="Null Dereference" ArticleUrl="https://vulnerabilities.teammentor.net/article/bf332de3-8258-4549-aa5c-c7b846ab355d" />
+  <DataMapping FortifyCategoryDescription="Double Free" ArticleUrl="https://vulnerabilities.teammentor.net/article/edd65ef2-30f0-45bb-b51c-7cf5a08b6bc1" />
+  <DataMapping FortifyCategoryDescription="Unreleased Resource" ArticleUrl="https://vulnerabilities.teammentor.net/article/f5f78214-e44f-4147-aed3-32bf78fb20db" />
+  <DataMapping FortifyCategoryDescription="Use After Free" ArticleUrl="https://vulnerabilities.teammentor.net/article/aca8fc61-4b62-48a0-843a-1bdf8f19e34c" />
+  <DataMapping FortifyCategoryDescription="Buffer Overflow" ArticleUrl="https://vulnerabilities.teammentor.net/article/157c6e57-629d-4002-899a-1be6f2f18a1e">
+    <Lists>
+      <List SubCategoryDescription="Format String" ArticleUrl="https://vulnerabilities.teammentor.net/article/157c6e57-629d-4002-899a-1be6f2f18a1e" />
+      <List SubCategoryDescription="Format String (%f/%F)" ArticleUrl="https://vulnerabilities.teammentor.net/article/157c6e57-629d-4002-899a-1be6f2f18a1e" />
+      <List SubCategoryDescription="Off-by-One" ArticleUrl="https://vulnerabilities.teammentor.net/article/bb7f7b3a-a3bc-498a-b4b4-88e7e8b02855" />
+      <List SubCategoryDescription="Signed Comparison" ArticleUrl="https://vulnerabilities.teammentor.net/article/bb7f7b3a-a3bc-498a-b4b4-88e7e8b02855" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="ASP.NET Misconfiguration" ArticleUrl="https://vulnerabilities.teammentor.net/article/0230d542-313e-4931-9d89-6161ad0ad343">
+    <Lists>
+      <List SubCategoryDescription="Missing Error Handling" ArticleUrl="https://vulnerabilities.teammentor.net/article/0230d542-313e-4931-9d89-6161ad0ad343" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Weak Encryption" ArticleUrl="https://vulnerabilities.teammentor.net/article/161382ce-e097-492d-aae1-90dac335aa66">
+    <Lists>
+      <List SubCategoryDescription="Inadequate RSA Padding" ArticleUrl="https://vulnerabilities.teammentor.net/article/161382ce-e097-492d-aae1-90dac335aa66" />
+      <List SubCategoryDescription="Insufficient Key Size" ArticleUrl="https://vulnerabilities.teammentor.net/article/161382ce-e097-492d-aae1-90dac335aa66" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Weak Cryptographic Hash" ArticleUrl="https://vulnerabilities.teammentor.net/article/1c886700-46cb-4dfb-9e3b-8c95164aa4d4">
+    <Lists>
+      <List SubCategoryDescription="Hardcoded Salt" ArticleUrl="https://vulnerabilities.teammentor.net/article/1c886700-46cb-4dfb-9e3b-8c95164aa4d4" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="String Termination Error" ArticleUrl="https://vulnerabilities.teammentor.net/article/86123ed3-c89a-469a-9438-3feaa21577b3" />
+  <DataMapping FortifyCategoryDescription="Uninitialized Variable" ArticleUrl="https://vulnerabilities.teammentor.net/article/168741c0-e42b-44af-9e22-30d5388c6b43" />
+  <DataMapping FortifyCategoryDescription="Insecure Transport" ArticleUrl="https://vulnerabilities.teammentor.net/article/17ecc589-9be2-4429-8dc4-9f61556f63b1" />
+  <DataMapping FortifyCategoryDescription="Integer Overflow" ArticleUrl="https://vulnerabilities.teammentor.net/article/abc12d73-61ae-4736-b123-144aaea5254b" />
+  <DataMapping FortifyCategoryDescription="String Termination Error(truncate)" ArticleUrl="https://vulnerabilities.teammentor.net/article/86123ed3-c89a-469a-9438-3feaa21577b3" />
+  <DataMapping FortifyCategoryDescription="Format String" ArticleUrl="https://vulnerabilities.teammentor.net/article/157c6e57-629d-4002-899a-1be6f2f18a1e">
+    <Lists>
+      <List SubCategoryDescription="Argument Number Mismatch" ArticleUrl="https://vulnerabilities.teammentor.net/article/157c6e57-629d-4002-899a-1be6f2f18a1e" />
+      <List SubCategoryDescription="Argument Type Mismatch" ArticleUrl="https://vulnerabilities.teammentor.net/article/157c6e57-629d-4002-899a-1be6f2f18a1e" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Poor Error Handling" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80">
+    <Lists>
+      <List SubCategoryDescription="Empty Catch Block" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80" />
+      <List SubCategoryDescription="Overly Broad Catch" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80" />
+      <List SubCategoryDescription="Program Catches NullPointerException" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80" />
+      <List SubCategoryDescription="Return Inside Finally" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80" />
+      <List SubCategoryDescription="Swallowed ThreadDeath" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80" />
+      <List SubCategoryDescription="Throw Inside Finally" ArticleUrl="https://vulnerabilities.teammentor.net/article/ac14838d-5bb2-45bf-bd03-60913b1b0b80" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Insecure Randomness" ArticleUrl="https://vulnerabilities.teammentor.net/article/79e3c551-71ae-4120-8542-a6f90823ede9">
+    <Lists>
+      <List SubCategoryDescription="Poor Seeding" ArticleUrl="https://vulnerabilities.teammentor.net/article/79e3c551-71ae-4120-8542-a6f90823ede9" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Often Misused" ArticleUrl="https://vulnerabilities.teammentor.net/article/1d3c6862-1cde-4764-bef2-b12bdac2fb8a">
+    <Lists>
+      <List SubCategoryDescription="File Upload" ArticleUrl="https://vulnerabilities.teammentor.net/article/1d3c6862-1cde-4764-bef2-b12bdac2fb8a" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="System Information Leak" ArticleUrl="https://vulnerabilities.teammentor.net/article/b2211d6a-c90a-4a42-8586-b364c3630d2c">
+    <Lists>
+      <List SubCategoryDescription="PHP Errors" ArticleUrl="https://vulnerabilities.teammentor.net/article/b2211d6a-c90a-4a42-8586-b364c3630d2c" />
+      <List SubCategoryDescription="PHP Version" ArticleUrl="https://vulnerabilities.teammentor.net/article/b2211d6a-c90a-4a42-8586-b364c3630d2c" />
+    </Lists>
+  </DataMapping>
+  <DataMapping FortifyCategoryDescription="Cookie Security" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681">
+    <Lists>
+      <List SubCategoryDescription="Cookie not Sent Over SSL" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="HTTPOnly not Set" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="HTTPOnly not Set on Application Cookie" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="HTTPOnly not Set on Session Cookie" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="Overly Broad Domain" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="Overly Broad Path" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="Overly Broad Session Cookie Domain" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="Persistent Cookie" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="Persistent Session Cookie" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+      <List SubCategoryDescription="Session Cookie not Sent Over SSL" ArticleUrl="https://vulnerabilities.teammentor.net/article/874d5f27-5b42-41e9-accb-141719b1a681" />
+    </Lists>
+  </DataMapping>
+</ArrayOfDataMapping>
